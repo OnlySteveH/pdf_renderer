@@ -19,4 +19,5 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~> 5.1.2"
 
   s.add_development_dependency "sqlite3"
+  s.add_dependency "prawn", "0.12.0"
 end
