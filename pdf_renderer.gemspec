@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = PdfRenderer::VERSION
   s.authors     = ["OnlySteveH"]
   s.email       = ["steve.hunter@bigdogconsultants.co.uk"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of PdfRenderer."
-  s.description = "TODO: Description of PdfRenderer."
+  #s.homepage    = "/home"
+  s.summary     = "Summary of PdfRenderer."
+  s.description = "Description of PdfRenderer."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
